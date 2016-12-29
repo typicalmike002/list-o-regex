@@ -17,5 +17,8 @@ Matches from numbers 1 to 24 containing nothing else.
 https://regex101.com/r/PExLTl/3<br />
 Matches a 5 digit address.
 
-
+#### SS Number
+^\d{3}-\d{2}-\d{4}$<br />
+https://regex101.com/r/4UnLRF/1<br />
+Matches a standard U.S. social security number.  (i.e 123-456-7891)
 
