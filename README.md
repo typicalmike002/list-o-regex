@@ -9,7 +9,13 @@ Make sure you give a regular expression a name, a description of what it does, a
 
 #### Hours 1-24
 ^((1[0-9]|2[0-4])|[1-9])$<br />
-(https://regex101.com/r/Nw1Vg9/3)[regex101]<br />
+https://regex101.com/r/Nw1Vg9/3<br />
 Matches from numbers 1 to 24 containing nothing else.
+
+#### Simple Address (5 digits)
+^\d{5}$<br />
+https://regex101.com/r/PExLTl/3<br />
+Matches a 5 digit address.
+
 
 
