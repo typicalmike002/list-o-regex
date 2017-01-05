@@ -25,5 +25,5 @@ Matches a standard U.S. social security number.  (i.e 123-456-7891)
 #### Date
 ^(0?[1-9]|1[0-2])\/(0?[1-9]|[1-2]\d|3[0-1])\/[1-2]\d{3}$<br />
 https://regex101.com/r/0aATlT/5<br />
-Matches a basic date like pattern using simple validation.  Will handle patterns like MM/DD/YYYY with optional single digits for month and days.  Requires 4 digits for the year.
+Matches a date pattern using '/' dashes.  Will handle patterns like MM/DD/YYYY with optional single digits for month and days.  Requires 4 digits for the year.
 
