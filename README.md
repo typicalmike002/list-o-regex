@@ -24,6 +24,6 @@ Matches a standard U.S. social security number.  (i.e 123-456-7891)
 
 #### Date
 ^[0-1]?\d\/[0-3]?\d\/[1-2]\d{3}$<br />
-https://regex101.com/r/0aATlT/1<br />
+https://regex101.com/r/0aATlT/3<br />
 Matches a basic date like pattern using simple validation.
 
