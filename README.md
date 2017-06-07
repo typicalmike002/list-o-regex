@@ -28,7 +28,7 @@ https://regex101.com/r/0aATlT/5<br />
 Matches a date pattern using '/' dashes.  Will handle patterns like MM/DD/YYYY with optional single digits for month and days.  Requires 4 digits for the year.
 
 #### Letters and numbers
-^[a-zA-Z0-9]++$<br />
+^[a-zA-Z0-9]+?$<br />
 https://regex101.com/r/z9Pe5K/1<br />
 Matches a string that only contains letters and number characters (no spaces).  Useful for user accounts and it's also optimized to require very few steps.
 
